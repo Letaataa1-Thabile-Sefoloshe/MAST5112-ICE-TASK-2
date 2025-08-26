@@ -42,6 +42,11 @@ Guess Counter: Keeps track of the number of attempts made by the user.
 Restart Option: Allows restarting the game with a new random number at any time.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1554" height="852" alt="Screenshot 2025-08-26 224645" src="https://github.com/user-attachments/assets/65dc13b0-6a02-4d82-b997-ff59e25ce539" />
+<img width="1555" height="866" alt="Screenshot 2025-08-26 224749" src="https://github.com/user-attachments/assets/26083be9-c076-4406-87fa-5d5d5e4a9011" />
+<img width="1553" height="867" alt="Screenshot 2025-08-26 224828" src="https://github.com/user-attachments/assets/8cd22179-0518-46f8-b923-c38a0b922be6" />
+
+
 Working on this project helped me strengthen my understanding of React Native components, state management (useState), and user input handling. I also learned how to design a simple 
 but interactive user interface with feedback that updates dynamically.
 
